@@ -1,5 +1,14 @@
 {
-    "id": "395",
-    "name": "Yamada",
-    "likeFood": "Sukiyaki"
+    "Lane1":[
+        {
+            "NumBars": 3,
+            "Beat": 1,
+            "Fraction": 0
+        },
+        {
+            "NumBars": 3,
+            "Beat": 4,
+            "Fraction": 0.5
+        }
+    ]
 }
