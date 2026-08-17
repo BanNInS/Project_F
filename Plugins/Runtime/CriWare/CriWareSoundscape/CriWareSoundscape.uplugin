@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.5.1-0+UE5_LE",
+	"FriendlyName": "CriWare Soundscape Plugin",
+	"Description": "Unreal Soundscape for ADX audio engine. A Dynamic Ambient Sound System.",
+	"Category": "CriWare",
+	"CreatedBy": "CRI Middleware Co., Ltd.",
+	"CreatedByURL": "https://game.criware.jp",
+	"DocsURL": "https://game.criware.jp/learn/manual/",
+	"SupportURL": "https://www.criware.jp/",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CriWareSoundscape",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "CriWareSoundscapeEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CriWare",
+			"Enabled": true
+		}
+	]
+}
