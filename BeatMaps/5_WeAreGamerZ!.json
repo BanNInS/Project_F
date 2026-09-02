@@ -1,0 +1,28 @@
+{
+    "Lane1":[
+        {
+            "NumBars": 3,
+            "Beat": 1,
+            "Detail": 4,
+            "NoteType": 1
+        },
+        {
+            "NumBars": 3,
+            "Beat": 4,
+            "Detail": 1,
+            "NoteType": 2
+        },
+        {
+            "NumBars": 10,
+            "Beat": 3,
+            "Detail": 3,
+            "NoteType": 1
+        },
+        {
+            "NumBars": 15,
+            "Beat": 2,
+            "Detail": 1,
+            "NoteType":2
+        }
+    ]
+}
