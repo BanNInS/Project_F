@@ -10,7 +10,7 @@
             "NumBars": 3,
             "Beat": 4,
             "Detail": 1,
-            "NoteType": 2
+            "NoteType": 0
         },
         {
             "NumBars": 10,
@@ -22,7 +22,7 @@
             "NumBars": 15,
             "Beat": 2,
             "Detail": 1,
-            "NoteType":2
+            "NoteType":0
         }
     ]
 }
