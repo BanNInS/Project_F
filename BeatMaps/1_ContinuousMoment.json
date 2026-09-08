@@ -24,5 +24,29 @@
             "Detail": 1,
             "NoteType":0
         }
+    ],
+    "Lane2":[
+        {
+            "NumBars": 3,
+            "Beat": 2,
+            "Detail": 0,
+            "NoteType": 0
+        }
+    ],
+    "Lane3":[
+        {
+            "NumBars": 3,
+            "Beat": 3,
+            "Detail": 0,
+            "NoteType": 0
+        }
+    ],
+    "Lane4":[
+        {
+            "NumBars": 4,
+            "Beat": 2,
+            "Detail": 0,
+            "NoteType": 1
+        }
     ]
 }
