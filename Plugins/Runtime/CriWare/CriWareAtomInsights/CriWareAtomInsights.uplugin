@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.5.1-0+UE5_LE",
+	"FriendlyName": "CriWare ADX AtomInsights",
+	"Description": "Suite of tools to profile, debug, and monitor ADX audio engine in the Unreal Engine. The plugin is based on Unreal AudioInsight with addition of specific tools for ADX. [Unreal Editor 5.5 and later]",
+	"Category": "CriWare",
+	"CreatedBy": "CRI Middleware Co., Ltd.",
+	"CreatedByURL": "https://game.criware.jp",
+	"DocsURL": "https://game.criware.jp/learn/manual/",
+	"SupportURL": "https://www.criware.jp/",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"SupportedPrograms": [ "UnrealInsights" ],
+	"Modules": [
+		{
+			"Name": "CriWareAtomInsights",
+			"Type": "EditorAndProgram",
+			"LoadingPhase": "Default",
+			"ProgramAllowList": [
+				"UnrealInsights"
+			],
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "CriWareAtomInsightsEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CriWare",
+			"Enabled": true
+		},
+		{
+			"Name": "CriWareAtomWidgets",
+			"Enabled": true
+		}
+	]
+}
