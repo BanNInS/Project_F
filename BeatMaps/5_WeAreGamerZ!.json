@@ -3,13 +3,13 @@
         {
             "NumBars": 3,
             "Beat": 1,
-            "Detail": 4,
+            "Detail": 3,
             "NoteType": 1
         },
         {
             "NumBars": 3,
             "Beat": 4,
-            "Detail": 1,
+            "Detail": 0,
             "NoteType": 0
         },
         {
@@ -23,6 +23,38 @@
             "Beat": 2,
             "Detail": 1,
             "NoteType":0
+        }
+    ],
+    "Lane2":[
+        {
+            "NumBars": 3,
+            "Beat": 2,
+            "Detail": 0,
+            "NoteType": 0
+        }
+    ],
+    "Lane3":[
+        {
+            "NumBars": 3,
+            "Beat": 3,
+            "Detail": 0,
+            "NoteType": 0
+        }
+    ],
+    "Lane4":[
+        {
+            "NumBars": 4,
+            "Beat": 2,
+            "Detail": 0,
+            "NoteType": 1
+        }
+    ],
+    "Lane5":[
+        {
+            "NumBars": 4,
+            "Beat": 4,
+            "Detail": 4,
+            "NoteType": 1
         }
     ]
 }
