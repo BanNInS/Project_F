@@ -3,13 +3,13 @@
         {
             "NumBars": 3,
             "Beat": 1,
-            "Detail": 4,
+            "Detail": 3,
             "NoteType": 1
         },
         {
             "NumBars": 3,
             "Beat": 4,
-            "Detail": 1,
+            "Detail": 0,
             "NoteType": 0
         },
         {
