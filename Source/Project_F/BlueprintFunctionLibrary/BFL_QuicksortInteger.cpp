@@ -9,4 +9,3 @@ TArray<int32> UBFL_QuicksortInteger::QuickSortInteger(TArray<int32> TargetArray)
 	TargetArray.Sort();
 	return TargetArray;
 }
-

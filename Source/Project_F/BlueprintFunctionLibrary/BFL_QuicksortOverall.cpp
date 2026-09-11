@@ -1,7 +1,7 @@
-#include "BFL_QuicksortFloat.h"
+#include "BFL_QuicksortOverall.h"
 #include "Containers/Array.h"
 
-void UBFL_QuicksortFloat::QuickSortFloat(
+void UBFL_QuicksortOverall::QuickSortOverall(
 	const TArray<float>& ParentArray,
 	const TArray<int32>& ChildArray,
 	TArray<float>& SortedParentArray,
@@ -12,7 +12,7 @@ void UBFL_QuicksortFloat::QuickSortFloat(
 
 	if (ParentArray.Num() != ChildArray.Num())
 	{
-		UE_LOG(LogTemp, Warning, TEXT("QuickSortFloat: ParentArray and ChildArray must be the same length."));
+		UE_LOG(LogTemp, Warning, TEXT("QuickSortOverall: ParentArray and ChildArray must be the same length."));
 		return;
 	}
 
