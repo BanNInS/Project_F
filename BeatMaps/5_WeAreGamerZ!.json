@@ -41,6 +41,12 @@
             "Beat": 4,
             "Detail": 0,
             "NoteType": 0
+        },
+        {
+            "NumBars": 8,
+            "Beat": 1,
+            "Detail": 0,
+            "NoteType": 0
         }
     ]
 }

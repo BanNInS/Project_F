@@ -1,0 +1,2856 @@
+﻿{
+	"FormatVersion": 1,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "ActorFactory",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AtomSound"
+					},
+					"Translation":
+					{
+						"Text": "AtomSound"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "AtomSoundData"
+					},
+					"Translation":
+					{
+						"Text": "AtomSoundData"
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AssetTypeActions",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Atom Config"
+					},
+					"Translation":
+					{
+						"Text": "Atom Config"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Atom Cue"
+					},
+					"Translation":
+					{
+						"Text": "Atom Cue"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Atom Cue Sheet"
+					},
+					"Translation":
+					{
+						"Text": "Atom Cue Sheet"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Create Material"
+					},
+					"Translation":
+					{
+						"Text": "Create Material"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Creates a new material using this texture."
+					},
+					"Translation":
+					{
+						"Text": "Creates a new material using this texture."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Reimport"
+					},
+					"Translation":
+					{
+						"Text": "Reimport"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Reimport the selected AtomConfig(s)."
+					},
+					"Translation":
+					{
+						"Text": "Reimport the selected AtomConfig(s)."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Reimport the selected AtomCueSheet(s)."
+					},
+					"Translation":
+					{
+						"Text": "Reimport the selected AtomCueSheet(s)."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Sofdec2 Movie Texture"
+					},
+					"Translation":
+					{
+						"Text": "Sofdec2 Movie Texture"
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AtomComponent",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AISAC Control"
+					},
+					"Translation":
+					{
+						"Text": "AISAC Control"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "AISAC control."
+					},
+					"Translation":
+					{
+						"Text": "Default AISAC setting."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "AtomAisacControlParam struct."
+					},
+					"Translation":
+					{
+						"Text": "AtomAisacControlParam struct."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "AtomComponent class."
+					},
+					"Translation":
+					{
+						"Text": "AtomComponent class."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Attenuation Overrides"
+					},
+					"Translation":
+					{
+						"Text": "Attenuation Overrides"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Attenuation Settings"
+					},
+					"Translation":
+					{
+						"Text": "Attenuation Settings"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Attenuation overrides."
+					},
+					"Translation":
+					{
+						"Text": "Attenuation overrides."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Attenuation settings for asset."
+					},
+					"Translation":
+					{
+						"Text": "Attenuation settings for asset."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Auto Destroy"
+					},
+					"Translation":
+					{
+						"Text": "Auto Destroy"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Auto destroy."
+					},
+					"Translation":
+					{
+						"Text": "Destroy the component at the end of the playing."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Block Index"
+					},
+					"Translation":
+					{
+						"Text": "Block Index"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Block index."
+					},
+					"Translation":
+					{
+						"Text": "Default block index."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable Multiple Sound Playback"
+					},
+					"Translation":
+					{
+						"Text": "Enable Multiple Sound Playback"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable attenuation settings."
+					},
+					"Translation":
+					{
+						"Text": "Enable distance attenuation settings in the component."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable multiple sound playback."
+					},
+					"Translation":
+					{
+						"Text": "Enable multiple sound playback."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Is UI Sound"
+					},
+					"Translation":
+					{
+						"Text": "Is UI Sound"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Is UI sound?"
+					},
+					"Translation":
+					{
+						"Text": "Event if not in game, enable playing with UI such in Persona Editor."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Is paused?"
+					},
+					"Translation":
+					{
+						"Text": "Is playback paused?"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Is playing?"
+					},
+					"Translation":
+					{
+						"Text": "Is playback playing?"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Max Distance Sphere Component"
+					},
+					"Translation":
+					{
+						"Text": "Max Distance Sphere Component"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Maximum distance for Sphere Component."
+					},
+					"Translation":
+					{
+						"Text": "Maximum distance for Sphere Component."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Min Distance Sphere Component"
+					},
+					"Translation":
+					{
+						"Text": "Min Distance Sphere Component"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Minimum distance for Sphere Component."
+					},
+					"Translation":
+					{
+						"Text": "Minimum distance for Sphere Component."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Name"
+					},
+					"Translation":
+					{
+						"Text": "Name"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Name."
+					},
+					"Translation":
+					{
+						"Text": "AISAC control name."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Override Attenuation"
+					},
+					"Translation":
+					{
+						"Text": "Override Attenuation"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause playing."
+					},
+					"Translation":
+					{
+						"Text": "Pause playing."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Set Aisac by name."
+					},
+					"Translation":
+					{
+						"Text": "Set Aisac by name."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Set bus send level offset."
+					},
+					"Translation":
+					{
+						"Text": "Set bus send level offset."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Set bus send level."
+					},
+					"Translation":
+					{
+						"Text": "Set bus send level."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Set next block index."
+					},
+					"Translation":
+					{
+						"Text": "Set next block index."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Set pitch."
+					},
+					"Translation":
+					{
+						"Text": "Set pitch."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Set selector label."
+					},
+					"Translation":
+					{
+						"Text": "Set selector label."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Set sound."
+					},
+					"Translation":
+					{
+						"Text": "Set sound."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Set volume."
+					},
+					"Translation":
+					{
+						"Text": "Set volume."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Sound"
+					},
+					"Translation":
+					{
+						"Text": "Sound"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Sound Object"
+					},
+					"Translation":
+					{
+						"Text": "Sound Object"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Sound data."
+					},
+					"Translation":
+					{
+						"Text": "Sound data."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Sound object."
+					},
+					"Translation":
+					{
+						"Text": "Sound object."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Start playing."
+					},
+					"Translation":
+					{
+						"Text": "Start playing."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Stop When Owner Destroyed"
+					},
+					"Translation":
+					{
+						"Text": "Stop When Owner Destroyed"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Stop playing."
+					},
+					"Translation":
+					{
+						"Text": "Stop playing."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Stop when owner destroyed."
+					},
+					"Translation":
+					{
+						"Text": "Stop when owner destroyed."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Value"
+					},
+					"Translation":
+					{
+						"Text": "Value"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Value."
+					},
+					"Translation":
+					{
+						"Text": "AISAC control value."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Volume Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "Volume Multiplier"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Volume multiplier."
+					},
+					"Translation":
+					{
+						"Text": "Default volume multiplier."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AtomCueSheetDetailsCustomization",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Acb Data Handling"
+					},
+					"Translation":
+					{
+						"Text": "Acb Data Handling"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Contain"
+					},
+					"Translation":
+					{
+						"Text": "Contain"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Contain ACB data into the uasset."
+					},
+					"Translation":
+					{
+						"Text": "Contain ACB data into the uasset."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Remove"
+					},
+					"Translation":
+					{
+						"Text": "Remove"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Remove ACB data from the uasset. (To use this uasset, external ACB file is required.)"
+					},
+					"Translation":
+					{
+						"Text": "Remove ACB data from the uasset. (To use this uasset, external ACB file is required.)"
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AtomFactory",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Create a new object"
+					},
+					"Translation":
+					{
+						"Text": "Create a new object"
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AtomListenerFocusPoint",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AtomListenerFocusPoint class."
+					},
+					"Translation":
+					{
+						"Text": "AtomListenerFocusPoint class."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Direction Focus Level"
+					},
+					"Translation":
+					{
+						"Text": "Direction Focus Level"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Direction focus level."
+					},
+					"Translation":
+					{
+						"Text": "Direction focus level."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Distance Focus Level"
+					},
+					"Translation":
+					{
+						"Text": "Distance Focus Level"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Distance focus level."
+					},
+					"Translation":
+					{
+						"Text": "Distance focus level."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AtomSound",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Atom Component"
+					},
+					"Translation":
+					{
+						"Text": "Atom Component"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Atom component."
+					},
+					"Translation":
+					{
+						"Text": "Atom component to playback."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "AtomSound class."
+					},
+					"Translation":
+					{
+						"Text": "AtomSound class."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "{0?ActorName} : Atom sound actor has NULL AtomComponent property - please delete"
+					},
+					"Translation":
+					{
+						"Text": "{0?ActorName} : Atom sound actor has NULL AtomComponent property - please delete"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "{0?ActorName} : Atom sound actor has NULL Sound property"
+					},
+					"Translation":
+					{
+						"Text": "{0?ActorName} : Atom sound actor has NULL Sound property"
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AtomSoundData",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AtomSoundData class."
+					},
+					"Translation":
+					{
+						"Text": "AtomSoundData class."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue Sheet"
+					},
+					"Translation":
+					{
+						"Text": "Cue Sheet"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue sheet."
+					},
+					"Translation":
+					{
+						"Text": "Cue sheet."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AtomSoundObject",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AtomSoundObject class."
+					},
+					"Translation":
+					{
+						"Text": "AtomSoundObject class."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable Category Cue Limit Scope"
+					},
+					"Translation":
+					{
+						"Text": "Enable Category Cue Limit Scope"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable Voice Limit Scope"
+					},
+					"Translation":
+					{
+						"Text": "Enable Voice Limit Scope"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable category Cue limit scope."
+					},
+					"Translation":
+					{
+						"Text": "Enable category Cue limit scope."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable voice limit scope."
+					},
+					"Translation":
+					{
+						"Text": "Enable voice limit scope."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AtomStatics",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AtomComponent class."
+					},
+					"Translation":
+					{
+						"Text": "AtomComponent class."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause audio output."
+					},
+					"Translation":
+					{
+						"Text": "Pause audio output."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Play sound at location."
+					},
+					"Translation":
+					{
+						"Text": "Play sound at location."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Play sound attached."
+					},
+					"Translation":
+					{
+						"Text": "Play sound attached."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "AtomTriggerTableFunctionLibrary",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AtomTriggerRow struct."
+					},
+					"Translation":
+					{
+						"Text": "AtomTriggerRow struct."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Bone"
+					},
+					"Translation":
+					{
+						"Text": "Bone"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Bone."
+					},
+					"Translation":
+					{
+						"Text": "Position where the sound is emitted."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue"
+					},
+					"Translation":
+					{
+						"Text": "Cue"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue."
+					},
+					"Translation":
+					{
+						"Text": "Cue asset that is triggered."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time"
+					},
+					"Translation":
+					{
+						"Text": "Time"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time."
+					},
+					"Translation":
+					{
+						"Text": "Time when the Cue asset is triggered."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "CanCreateActor",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A valid sound asset must be specified."
+					},
+					"Translation":
+					{
+						"Text": "A valid sound asset must be specified."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "CriWare",
+			"Subnamespaces": [
+				{
+					"Namespace": "CheckDeleteFile",
+					"Children": [
+						{
+							"Source":
+							{
+								"Text": "Check Delete File"
+							},
+							"Translation":
+							{
+								"Text": "Check Delete File"
+							}
+						}
+					]
+				},
+				{
+					"Namespace": "CheckPanel",
+					"Children": [
+						{
+							"Source":
+							{
+								"Text": "Cancel"
+							},
+							"Translation":
+							{
+								"Text": "Cancel"
+							}
+						},
+						{
+							"Source":
+							{
+								"Text": "The Convert operation will delete the above config files."
+							},
+							"Translation":
+							{
+								"Text": "The Convert operation will delete the above config files."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Namespace": "CriWareEditorModule",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Atom"
+					},
+					"Translation":
+					{
+						"Text": "Atom"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Choose Location for Data Table Asset"
+					},
+					"Translation":
+					{
+						"Text": "Choose Location for Data Table Asset"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Configure the CRIWARE plugin"
+					},
+					"Translation":
+					{
+						"Text": "Configure the CRIWARE plugin"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "CriWare"
+					},
+					"Translation":
+					{
+						"Text": "CriWare"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Export Atom Trigger Table"
+					},
+					"Translation":
+					{
+						"Text": "Export Atom Trigger Table"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Export Atom Triggers to DataTable asset."
+					},
+					"Translation":
+					{
+						"Text": "Export Atom Triggers to DataTable asset."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Import Atom Trigger Table"
+					},
+					"Translation":
+					{
+						"Text": "Import Atom Trigger Table"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Import Atom Triggers from DataTable asset."
+					},
+					"Translation":
+					{
+						"Text": "Import Atom Triggers from DataTable asset."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Animation Sequence"
+					},
+					"Translation":
+					{
+						"Text": "Open Animation Sequence"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Atom Trigger Table"
+					},
+					"Translation":
+					{
+						"Text": "Open Atom Trigger Table"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Plugins - CriWare"
+					},
+					"Translation":
+					{
+						"Text": "Plugins - CriWare"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "not pending"
+					},
+					"Translation":
+					{
+						"Text": "not pending"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "pending"
+					},
+					"Translation":
+					{
+						"Text": "pending"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "{SettingName} is {SettingValue}"
+					},
+					"Translation":
+					{
+						"Text": "{SettingName} is {SettingValue}"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "{SettingName} is {SettingValue} <HardwareTargets.Strong>(modified)</>"
+					},
+					"Translation":
+					{
+						"Text": "{SettingName} is {SettingValue} <HardwareTargets.Strong>(modified)</>"
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "CriWareInitializer",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "CRIWARE Plugin Error:\nBoth new and old format settings was found in configuration files.\nPlease follow this instructions to initialize CRIWARE plugin correctly.\n\nIn order to use the new format:\n1. Delete old configuration files (*CriWare.ini).\n\nIn order to use the old format:\n1. Open new configuration file (*Engine.ini) by text editor.\n2. Remove section [/Script/CriWareEditor.CriWarePluginSettings].\n\n[Appendix]\nConfiguration files will be in the following directories:\n- Engine/Config/\n- Engine/Platform/\n- [ProjectDir]/Config/\n- [ProjectDir]/Config/[Platform]/"
+					},
+					"Translation":
+					{
+						"Text": "CRIWARE Plugin Error:\nBoth new and old format settings was found in configuration files.\nPlease follow this instructions to initialize CRIWARE plugin correctly.\n\nIn order to use the new format:\n1. Delete old configuration files (*CriWare.ini).\n\nIn order to use the old format:\n1. Open new configuration file (*Engine.ini) by text editor.\n2. Remove section [/Script/CriWareEditor.CriWarePluginSettings].\n\n[Appendix]\nConfiguration files will be in the following directories:\n- Engine/Config/\n- Engine/Platform/\n- [ProjectDir]/Config/\n- [ProjectDir]/Config/[Platform]/"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "CriWareInitializer class."
+					},
+					"Translation":
+					{
+						"Text": "CriWareInitializer class."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "CriWarePluginSettings",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "ACF File Name"
+					},
+					"Translation":
+					{
+						"Text": "ACF File Name"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "ACF file name."
+					},
+					"Translation":
+					{
+						"Text": "ACF file name."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Atom Distance Factor"
+					},
+					"Translation":
+					{
+						"Text": "Atom Distance Factor"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Atom distance factor."
+					},
+					"Translation":
+					{
+						"Text": "Atom distance factor."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Contents Directory"
+					},
+					"Translation":
+					{
+						"Text": "Contents Directory"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Contents directory."
+					},
+					"Translation":
+					{
+						"Text": "Contents directory."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable Decode Skip"
+					},
+					"Translation":
+					{
+						"Text": "Enable Decode Skip"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable decode skipping."
+					},
+					"Translation":
+					{
+						"Text": "Enable decode skipping."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable log output."
+					},
+					"Translation":
+					{
+						"Text": "Enable log output."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Error: Failed to Mark For Add the configuration file."
+					},
+					"Translation":
+					{
+						"Text": "Error: Failed to Mark For Add the configuration file."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Error: Failed to check out the configuration file."
+					},
+					"Translation":
+					{
+						"Text": "Error: Failed to check out the configuration file."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Error: Failed to delete CriWare.ini! CRIWARE configuration file comes with read-Only attribute."
+					},
+					"Translation":
+					{
+						"Text": "Error: Failed to delete CriWare.ini! CRIWARE configuration file comes with read-Only attribute."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Error: Failed to rewrite Engine.ini! Engine configuration file comes with read-Only attribute."
+					},
+					"Translation":
+					{
+						"Text": "Error: Failed to rewrite Engine.ini! Engine configuration file comes with read-Only attribute."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Error: Failed to rewrite Engine.ini. Engine.ini file may be opend by other application."
+					},
+					"Translation":
+					{
+						"Text": "Error: Failed to rewrite Engine.ini. Engine.ini file may be opend by other application."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Error: Failed to sync the configuration file to head revision."
+					},
+					"Translation":
+					{
+						"Text": "Error: Failed to sync the configuration file to head revision."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Error: The configuration file is marked for deletion."
+					},
+					"Translation":
+					{
+						"Text": "Error: The configuration file is marked for deletion."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Initialize Mana"
+					},
+					"Translation":
+					{
+						"Text": "Initialize Mana"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Initialize Mana."
+					},
+					"Translation":
+					{
+						"Text": "Initialize Mana."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Is Not Existing Old Format Configration File"
+					},
+					"Translation":
+					{
+						"Text": "Is Not Existing Old Format Configration File"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Max Decoder Handles."
+					},
+					"Translation":
+					{
+						"Text": "Max Decoder Handles."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Max Mana BPS"
+					},
+					"Translation":
+					{
+						"Text": "Max Mana BPS"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Max Mana BPS."
+					},
+					"Translation":
+					{
+						"Text": "Max Mana BPS."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Maximum Number of Binds"
+					},
+					"Translation":
+					{
+						"Text": "Maximum Number of Binds"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Maximum Number of Files"
+					},
+					"Translation":
+					{
+						"Text": "Maximum Number of Files"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Maximum Number of Virtual Voices"
+					},
+					"Translation":
+					{
+						"Text": "Maximum Number of Virtual Voices"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Maximum number of binds."
+					},
+					"Translation":
+					{
+						"Text": "Maximum number of binds."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Maximum number of files."
+					},
+					"Translation":
+					{
+						"Text": "Maximum number of files."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Maximum number of virtual voices."
+					},
+					"Translation":
+					{
+						"Text": "Maximum number of virtual voices."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Not existing: checked, existing: unchecked."
+					},
+					"Translation":
+					{
+						"Text": "Not existing: checked, existing: unchecked."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of Binders"
+					},
+					"Translation":
+					{
+						"Text": "Number of Binders"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of Loaders"
+					},
+					"Translation":
+					{
+						"Text": "Number of Loaders"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of Standard Memory Voices"
+					},
+					"Translation":
+					{
+						"Text": "Number of Standard Memory Voices"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of Standard Streaming Voices"
+					},
+					"Translation":
+					{
+						"Text": "Number of Standard Streaming Voices"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of binders."
+					},
+					"Translation":
+					{
+						"Text": "Number of binders."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of channels of standard memory voice."
+					},
+					"Translation":
+					{
+						"Text": "Number of channels of standard memory voice."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of channels of standard streaming voice."
+					},
+					"Translation":
+					{
+						"Text": "Number of channels of standard streaming voice."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of loaders."
+					},
+					"Translation":
+					{
+						"Text": "Number of loaders."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of standard memory voices."
+					},
+					"Translation":
+					{
+						"Text": "Number of standard memory voices."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Number of standard streaming voices."
+					},
+					"Translation":
+					{
+						"Text": "Number of standard streaming voices."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Outputs Log"
+					},
+					"Translation":
+					{
+						"Text": "Outputs Log"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Standard Memory Voice Num Channels"
+					},
+					"Translation":
+					{
+						"Text": "Standard Memory Voice Num Channels"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Standard Memory Voice Sampling Rate"
+					},
+					"Translation":
+					{
+						"Text": "Standard Memory Voice Sampling Rate"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Standard Streaming Voice Num Channels"
+					},
+					"Translation":
+					{
+						"Text": "Standard Streaming Voice Num Channels"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Standard Streaming Voice Sampling Rate"
+					},
+					"Translation":
+					{
+						"Text": "Standard Streaming Voice Sampling Rate"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Standard memory voice num channels."
+					},
+					"Translation":
+					{
+						"Text": "The maximum number of channels that can be played in memory playback for voice."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Standard memory voice sampling rate."
+					},
+					"Translation":
+					{
+						"Text": "The maximum sampling rate that can be played in memory playback for voice."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Standard streaming voice num channels."
+					},
+					"Translation":
+					{
+						"Text": "Standard streaming voice num channels."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Standard streaming voice sampling rate."
+					},
+					"Translation":
+					{
+						"Text": "Standard streaming voice sampling rate."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Uses In Game Preview"
+					},
+					"Translation":
+					{
+						"Text": "Uses In Game Preview"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Uses In-Game-Preview."
+					},
+					"Translation":
+					{
+						"Text": "Uses In-Game-Preview."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "FCriWarePluginSettingsDetails",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "CRIWARE Plugin Error:\nBoth new and old format settings was found in configuration files.\nPlease follow this instructions to initialize CRIWARE plugin correctly.\n\nIn order to use the new format:\n1. Delete old configuration files (*CriWare.ini).\n\nIn order to use the old format:\n1. Open new configuration file (*Engine.ini) by text editor.\n2. Remove section [/Script/CriWareEditor.CriWarePluginSettings].\n\n[Appendix]\nConfiguration files will be in the following directories:\n- Engine/Config/\n- Engine/Platform/\n- [ProjectDir]/Config/\n- [ProjectDir]/Config/[Platform]/\n"
+					},
+					"Translation":
+					{
+						"Text": "CRIWARE Plugin Error:\nBoth new and old format settings was found in configuration files.\nPlease follow this instructions to initialize CRIWARE plugin correctly.\n\nIn order to use the new format:\n1. Delete old configuration files (*CriWare.ini).\n\nIn order to use the old format:\n1. Open new configuration file (*Engine.ini) by text editor.\n2. Remove section [/Script/CriWareEditor.CriWarePluginSettings].\n\n[Appendix]\nConfiguration files will be in the following directories:\n- Engine/Config/\n- Engine/Platform/\n- [ProjectDir]/Config/\n- [ProjectDir]/Config/[Platform]/\n"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Convert Now"
+					},
+					"Translation":
+					{
+						"Text": "Convert Now"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "File"
+					},
+					"Translation":
+					{
+						"Text": "File"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "List of properties modified in this project setting category"
+					},
+					"Translation":
+					{
+						"Text": "List of properties modified in this project setting category"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "No parameter is changed."
+					},
+					"Translation":
+					{
+						"Text": "No parameter is changed."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Restart Now"
+					},
+					"Translation":
+					{
+						"Text": "Restart Now"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "The current configuration file must be converted to the new format.\n\nYou cannot edit the parameter while the old format file is existing.\nWhen you push the button, Old format file will be deleted, and UnrealEditor will be restarted."
+					},
+					"Translation":
+					{
+						"Text": "The current configuration file must be converted to the new format.\n\nYou cannot edit the parameter while the old format file is existing.\nWhen you push the button, Old format file will be deleted, and UnrealEditor will be restarted."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Unreal Editor must be restarted for the parameter changes to take effect."
+					},
+					"Translation":
+					{
+						"Text": "Unreal Editor must be restarted for the parameter changes to take effect."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "ManaComponent",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Enable looping of the movie."
+					},
+					"Translation":
+					{
+						"Text": "Enable looping of the movie."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Get current playback time."
+					},
+					"Translation":
+					{
+						"Text": "Get current playback time. Time is in seconds."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Get current volume."
+					},
+					"Translation":
+					{
+						"Text": "Get the output sound volume of main audio track in the movie. Range is 0.0 - 1.0."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Loop"
+					},
+					"Translation":
+					{
+						"Text": "Loop"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "ManaComponent class."
+					},
+					"Translation":
+					{
+						"Text": "ManaComponent class."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Movie texture."
+					},
+					"Translation":
+					{
+						"Text": "Movie texture."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "MovieTexture"
+					},
+					"Translation":
+					{
+						"Text": "MovieTexture"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Set current volume."
+					},
+					"Translation":
+					{
+						"Text": "Change the output sound volume of the main audio track in the movie. Range is 0.0 - 1.0."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Start playing."
+					},
+					"Translation":
+					{
+						"Text": "Allocate resources necessary to play the movie, then start playing."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Stop playing."
+					},
+					"Translation":
+					{
+						"Text": "Stop playing the movie, then release the resources needed to play."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "ManaTexture",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Display Dimension"
+					},
+					"Translation":
+					{
+						"Text": "Display Dimension"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Display dimension."
+					},
+					"Translation":
+					{
+						"Text": "Horizontal and vertical size of the image to be displayed."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable alpha movie."
+					},
+					"Translation":
+					{
+						"Text": "Enable alpha (transparency) movie."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Frame Rate"
+					},
+					"Translation":
+					{
+						"Text": "Frame Rate"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Frame rate."
+					},
+					"Translation":
+					{
+						"Text": "The number of frames per second."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Is Alpha Movie"
+					},
+					"Translation":
+					{
+						"Text": "Is Alpha Movie"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "ManaTexture class."
+					},
+					"Translation":
+					{
+						"Text": "ManaTexture class."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "ManaVideoTrackInfo struct."
+					},
+					"Translation":
+					{
+						"Text": "ManaVideoTrackInfo struct."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Movie File Path"
+					},
+					"Translation":
+					{
+						"Text": "Movie File Path"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Movie file path."
+					},
+					"Translation":
+					{
+						"Text": "Relative path to the USM file."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Texture Dimension"
+					},
+					"Translation":
+					{
+						"Text": "Texture Dimension"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Texture dimension."
+					},
+					"Translation":
+					{
+						"Text": "The maximum horizontal and vertical size of the movie (in multiples of 8)."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Frames"
+					},
+					"Translation":
+					{
+						"Text": "Total Frames"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Total frames."
+					},
+					"Translation":
+					{
+						"Text": "The total number of frames."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Video Track Info"
+					},
+					"Translation":
+					{
+						"Text": "Video Track Info"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Video track info."
+					},
+					"Translation":
+					{
+						"Text": "Video track information."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "Matinee",
+			"Subnamespaces": [
+				{
+					"Namespace": "Popups",
+					"Children": [
+						{
+							"Source":
+							{
+								"Text": "Cue ID"
+							},
+							"Translation":
+							{
+								"Text": "Cue ID"
+							}
+						},
+						{
+							"Source":
+							{
+								"Text": "Cue Name"
+							},
+							"Translation":
+							{
+								"Text": "Cue Name"
+							}
+						},
+						{
+							"Source":
+							{
+								"Text": "Selector Label Name"
+							},
+							"Translation":
+							{
+								"Text": "Selector Label Name"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Namespace": "MatineeTrackAtom",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AISAC List"
+					},
+					"Translation":
+					{
+						"Text": "AISAC List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "AISAC list."
+					},
+					"Translation":
+					{
+						"Text": "List of AISAC control name."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue"
+					},
+					"Translation":
+					{
+						"Text": "Cue"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue."
+					},
+					"Translation":
+					{
+						"Text": "Cue to play at this Key-Frame."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyframe List"
+					},
+					"Translation":
+					{
+						"Text": "Keyframe List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyframe list."
+					},
+					"Translation":
+					{
+						"Text": "List of Key-Frame of the track."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Selector List"
+					},
+					"Translation":
+					{
+						"Text": "Selector List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Selector list."
+					},
+					"Translation":
+					{
+						"Text": "List of selector names."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time"
+					},
+					"Translation":
+					{
+						"Text": "Time"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time."
+					},
+					"Translation":
+					{
+						"Text": "Time to trigger the key."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "MatineeTrackAtomCategoryName",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Category Name"
+					},
+					"Translation":
+					{
+						"Text": "Category Name"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Category name."
+					},
+					"Translation":
+					{
+						"Text": "The name of the category to use for this track."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable Volume Track"
+					},
+					"Translation":
+					{
+						"Text": "Enable Volume Track"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable volume track."
+					},
+					"Translation":
+					{
+						"Text": "Enable creation of a track to control the category volume."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "MatineeTrackAtomCueId",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AISAC List"
+					},
+					"Translation":
+					{
+						"Text": "AISAC List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "AISAC list."
+					},
+					"Translation":
+					{
+						"Text": "List of AISAC control name."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue ID"
+					},
+					"Translation":
+					{
+						"Text": "Cue ID"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue ID."
+					},
+					"Translation":
+					{
+						"Text": "Cue ID to play at this Key-Frame."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue Sheet"
+					},
+					"Translation":
+					{
+						"Text": "Cue Sheet"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue sheet."
+					},
+					"Translation":
+					{
+						"Text": "Cue sheet to be used in the track."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyframe List"
+					},
+					"Translation":
+					{
+						"Text": "Keyframe List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyframe list."
+					},
+					"Translation":
+					{
+						"Text": "List of Key-Frame of the track."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Selector List"
+					},
+					"Translation":
+					{
+						"Text": "Selector List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Selector list."
+					},
+					"Translation":
+					{
+						"Text": "List of selector names."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time"
+					},
+					"Translation":
+					{
+						"Text": "Time"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time."
+					},
+					"Translation":
+					{
+						"Text": "Time to trigger the key."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "MatineeTrackAtomCueName",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AISAC List"
+					},
+					"Translation":
+					{
+						"Text": "AISAC List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "AISAC list."
+					},
+					"Translation":
+					{
+						"Text": "List of AISAC control name."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue Name"
+					},
+					"Translation":
+					{
+						"Text": "Cue Name"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue Sheet"
+					},
+					"Translation":
+					{
+						"Text": "Cue Sheet"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue name."
+					},
+					"Translation":
+					{
+						"Text": "Cue name to play at this Key-Frame."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue sheet."
+					},
+					"Translation":
+					{
+						"Text": "Cue sheet to be used in the track."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyframe List"
+					},
+					"Translation":
+					{
+						"Text": "Keyframe List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyframe list."
+					},
+					"Translation":
+					{
+						"Text": "List of Key-Frame of the track."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Selector List"
+					},
+					"Translation":
+					{
+						"Text": "Selector List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Selector list."
+					},
+					"Translation":
+					{
+						"Text": "List of selector names."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time"
+					},
+					"Translation":
+					{
+						"Text": "Time"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time."
+					},
+					"Translation":
+					{
+						"Text": "Time to trigger the key."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "MatineeTrackAtomHelper",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Browse"
+					},
+					"Translation":
+					{
+						"Text": "Browse"
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "MatineeTrackAtomSelector",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Keyframe List"
+					},
+					"Translation":
+					{
+						"Text": "Keyframe List"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyframe list."
+					},
+					"Translation":
+					{
+						"Text": "List of Key-Frame of the track."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Selector Label"
+					},
+					"Translation":
+					{
+						"Text": "Selector Label"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Selector label."
+					},
+					"Translation":
+					{
+						"Text": "Selector label to set at this Key-Frame."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time"
+					},
+					"Translation":
+					{
+						"Text": "Time"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Time."
+					},
+					"Translation":
+					{
+						"Text": "Time to trigger the key."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "SoundAtomConfig",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "ACF File Path"
+					},
+					"Translation":
+					{
+						"Text": "ACF File Path"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "ACF file path."
+					},
+					"Translation":
+					{
+						"Text": "ACF file path."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "SoundAtomConfig class."
+					},
+					"Translation":
+					{
+						"Text": "SoundAtomConfig class."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "SoundAtomCue",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Cue Sheet"
+					},
+					"Translation":
+					{
+						"Text": "Cue Sheet"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue Sheet Name"
+					},
+					"Translation":
+					{
+						"Text": "Cue Sheet Name"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue sheet name."
+					},
+					"Translation":
+					{
+						"Text": "Cue sheet name.\nRemarks: Not used in current version (maintained for compatibility)."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Cue sheet."
+					},
+					"Translation":
+					{
+						"Text": "Cue sheet object."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "SoundAtomCue class."
+					},
+					"Translation":
+					{
+						"Text": "SoundAtomCue class."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "SoundAtomCueSheet",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "ACB File Path"
+					},
+					"Translation":
+					{
+						"Text": "ACB File Path"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "ACB file path."
+					},
+					"Translation":
+					{
+						"Text": "ACB file path."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Attach DSP bus setting."
+					},
+					"Translation":
+					{
+						"Text": "Enabling the DSP bus setting."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Detach DSP bus setting."
+					},
+					"Translation":
+					{
+						"Text": "Disabling the DSP bus setting."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Is ACB data contained"
+					},
+					"Translation":
+					{
+						"Text": "Is ACB data contained"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Is ACB data contained."
+					},
+					"Translation":
+					{
+						"Text": "Whether ACB data is included in the uasset."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Load ACB."
+					},
+					"Translation":
+					{
+						"Text": "Load ACB."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Release ACB."
+					},
+					"Translation":
+					{
+						"Text": "Release ACB."
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "SoundAtomCueSheet class."
+					},
+					"Translation":
+					{
+						"Text": "SoundAtomCueSheet class."
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "SourceControl",
+			"Subnamespaces": [
+				{
+					"Namespace": "CheckPanel",
+					"Children": [
+						{
+							"Source":
+							{
+								"Text": "OK"
+							},
+							"Translation":
+							{
+								"Text": "OK"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Namespace": "SpriteCategory",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Misc"
+					},
+					"Translation":
+					{
+						"Text": "Misc"
+					}
+				}
+			]
+		},
+		{
+			"Namespace": "UnrealEd",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Asset with same name exists. Can't overwrite another asset"
+					},
+					"Translation":
+					{
+						"Text": "Asset with same name exists. Can't overwrite another asset"
+					}
+				},
+				{
+					"Source":
+					{
+						"Text": "Import failed for {0}"
+					},
+					"Translation":
+					{
+						"Text": "Import failed for {0}"
+					}
+				}
+			]
+		}
+	]
+}
